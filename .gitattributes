@@ -11,3 +11,4 @@ recipes-extended/ml-sdk/files/ARROW_DEMOS/face_recognition/Now_You_See_Me.mp4 fi
 recipes-extended/ml-sdk/files/ARROW_DEMOS/real-time-object-detection/pre-trained_model/** filter=lfs diff=lfs merge=lfs -text
 recipes-extended/ml-sdk/files/tensorflow-1.15.0-cp37-cp37m-linux_aarch64.whl filter=lfs diff=lfs merge=lfs -text
 recipes-extended/ml-sdk/files/grpcio-1.33.2-cp37-cp37m-linux_aarch64.whl filter=lfs diff=lfs merge=lfs -text
+VideoHMIApplication.tar.gz filter=lfs diff=lfs merge=lfs -text
